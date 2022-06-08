@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: v2rayn
+  name: ray
 spec:
   replicas: 1
   selector:
